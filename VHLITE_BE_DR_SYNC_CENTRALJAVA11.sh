@@ -1,6 +1,5 @@
 #!/bin/bash
-# created by Deshan
-# Modified by Chandiman
+# created by  Chandiman
 # VH_LITE_DR_SYNC : Pool A OPS
 
 #OCI_DES_SCHEDULER_PATH=/usr/local/tbx/vhtcbestg/Scheduler_Resources
