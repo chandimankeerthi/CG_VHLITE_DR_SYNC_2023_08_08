@@ -1,6 +1,5 @@
 #!/bin/bash
-# created by Deshan
-# Modified by Chandiman
+# created by  Chandiman
 # VH_LITE_DR_SYNC : Pool A OPS
 
 OCI_DES_LIBS_PATH=/usr/local/tbx/central/apache-tomcat-9.0.26.0/lib
