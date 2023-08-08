@@ -1,6 +1,5 @@
 #!/bin/bash
-# created by Deshan
-# Modified by Chandiman
+# created by  Chandiman
 # VH_LITE_DR_SYNC : Pool A OPS
 
 VHTC_FE_IP=192.168.4.182
